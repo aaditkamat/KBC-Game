@@ -5,6 +5,10 @@
   text-align: center;
 }
 
+img {
+  align-items: center;
+}
+
 .container h2 {
   font-size: 5rem;
 }
